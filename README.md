@@ -111,4 +111,3 @@ The user flow shows how Chillax manages workload from input to action. Students 
 - Week 2: Capacity Engine + Collision Detection + Dashboard (functions 3, 4, 8)
 - Week 3: Rebalancing Engine + Task Decomposer + Recovery flow + Widget (functions 2, 5, 6, 9), polish and demo prep
 
-*(Deliberately excluded from MVP scope: third-party health data — calendar sync (Google Calendar) is now in scope to support collision detection, per the tech stack above.)*
