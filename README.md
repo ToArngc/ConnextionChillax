@@ -1,8 +1,11 @@
 # Chillax by MkDY
 
 **Team:** Ling Li Chien, Loh Thian Le, Ng Zi Yang, Ong Xuanson
+
 **Problem Statement:** Stress & Workload Manager
+
 **Video Presentation:** [Unlisted YouTube Link — add once recorded]
+
 **Presentation Slides:** https://www.canva.com/d/EYfRrPcbWK-NAMO
 
 ## 1. Project Overview
